@@ -1,0 +1,107 @@
+/*nav.topbar {
+  z-index: 2;
+  background: none;
+  height: 70px;
+}
+
+nav.topbar ul {
+  padding: 0;
+  margin: 20px;
+}
+
+nav.topbar ul li {
+  line-height: 20px;
+  margin: 10px;
+  float: right;
+}
+
+.menu {
+  padding: 0;
+  margin: 0;
+}
+
+ol {
+  position: relative;
+}
+
+li.menu-item {
+  color: #fff;
+  font-weight: 200;
+  opacity: .6;
+  cursor: pointer;
+}
+
+li.menu-item:hover {
+  opacity: 1;
+}
+
+.fa-bars {
+  font-size: 30px;
+  color: rgb(8, 105, 64);
+
+  opacity: .5;
+  padding: 5px;
+  cursor: pointer;
+
+  -webkit-transition: transform 0.5s, opacity 0.5s;
+  -moz-transition: transform 0.5s, opacity 0.5s;
+  -o-transition: transform 0.5s, opactiy 0.5s;
+  -ms-transition: transform 0.5s, opactiy 0.5s;
+  transition: transform 0.5s, opacity 0.5s;
+
+
+}
+
+.open-menu {
+  -webkit-transform: rotate(90deg);
+  -moz-transform: rotate(90deg);
+  -o-transform: rotate(90deg);
+  -ms-transform: rotate(90deg);
+  transform: rotate(90deg);
+
+  opacity: 1;
+}
+
+.close-menu {
+  -webkit-transform: rotate(-0deg);
+  -moz-transform: rotate(-0deg);
+  -o-transform: rotate(-0deg);
+  -ms-transform: rotate(-0deg);
+  transform: rotate(-0deg);
+
+  opacity: .5;
+}
+
+.hidden {
+  display: none;
+}
+
+.animate-container {
+  position: absolute;
+  right: 48px;
+
+  margin-right: -20px;
+  padding-right: 5px;
+
+  display: block;
+  overflow: hidden;
+}
+
+.hider {
+  z-index: 1;
+
+  width: 61px;
+  height: 64px;
+
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.nav-menu {
+  color:rgb(8, 105, 64);;
+  padding:13px;
+  font-family: linetoCircularBold;
+  font-size: 20px;
+}
+*/
