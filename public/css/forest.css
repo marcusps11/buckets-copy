@@ -128,6 +128,8 @@ p {
 }
 .bottle {
 height:75%;
+position: relative;
+top:50px;
 }
 
 .social-container {
@@ -282,6 +284,7 @@ footer .list-inline li {
     .bottle {
     	width:60px;
     	height:auto;
+      top:-20px;
     }
 
     .move-down {
@@ -299,6 +302,11 @@ footer .list-inline li {
 
     iframe{
     	width:100%;
+    }
+
+    .contact-details {
+      position: relative;
+      left: -33px;
     }
 }
 
