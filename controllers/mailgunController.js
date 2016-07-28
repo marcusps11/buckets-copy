@@ -7,7 +7,7 @@ var mailgun = require('mailgun-js')({apiKey: api_key, domain: domain});
 function sendMessage(req, res) {
 	console.log(req.body);
 	var msg = {
-		to:       'marcusps1@gmail.com',
+		to:       'yo@forestroad.co.uk',
 		from:     req.body.email,
 		subject:  'Beer orders',
 		text:     req.body.msg
