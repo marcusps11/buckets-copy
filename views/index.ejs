@@ -8,9 +8,13 @@
   <meta name="description" content="Forest Road is an East London Brewing company and Home of the pale ale WORK - WE GOT THAT WORK">
 
   <!-- JS -->
+  <script type="text/javascript" src="./js/mapStyle.js"></script>
   <script type="text/javascript" src="js/vendor/jquery.js"></script>
   <script type="text/javascript" src="js/app.js"></script>
   <script type="text/javascript" src="js/contactform.js"></script>
+  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;libraries=places"></script>
+  <script type="text/javascript" src="./js/sidebar.js"></script>
+
 
   <!-- CSS -->
   <link rel="stylesheet" href="css/vendor/reset.css">
@@ -207,35 +211,48 @@
 
 
         </section>
+        <div class='map-content'>
+          <div class="sidebar"> <div id="map" class="tab"></div>
+          <div class="all-clubs">
+            
+          </div>
 
-      </main>
+        </div>
+      </div>
+
+    </main>
 
 
-      <!-- Footer -->
-      <footer>
-        <div class="navbar  footer">
-         <div class="container-fluid">
-           <div class="row-fluid">
-             <div class="col-xs-6 col-md-4 col-lg-3">
-               <ul>
-                 <li><img class="footer-logo" src="images/forest_noback.png"></li>
-               </ul>
+
+
+
+
+
+    <!-- Footer -->
+    <footer>
+      <div class="navbar  footer">
+       <div class="container-fluid">
+         <div class="row-fluid">
+           <div class="col-xs-6 col-md-4 col-lg-3">
+             <ul>
+               <li><img class="footer-logo" src="images/forest_noback.png"></li>
+             </ul>
+           </div>
+           <div class="col-xs-6 col-md-4 col-lg-3">
+             <a href="#"><p>Back to the top</p></a>
+           </div>
+           <div class="col-xs-6 col-md-4 col-lg-3">
+             <p class="contact-details">yo@forestroad.co.uk<br>
+               +447456916973</p>
              </div>
              <div class="col-xs-6 col-md-4 col-lg-3">
-               <a href="#"><p>Back to the top</p></a>
-             </div>
-             <div class="col-xs-6 col-md-4 col-lg-3">
-               <p class="contact-details">yo@forestroad.co.uk<br>
-                 +447456916973</p>
-               </div>
-               <div class="col-xs-6 col-md-4 col-lg-3">
-                 <p>97 B/c Forest road,
-                   London, E8 3BH</p>
-                 </div>
+               <p>97 B/c Forest road,
+                 London, E8 3BH</p>
                </div>
              </div>
            </div>
+         </div>
 
-         </footer>
-       </body>
-       </html>
+       </footer>
+     </body>
+     </html>

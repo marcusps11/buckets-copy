@@ -1,0 +1,32 @@
+[{
+  "name": "Prince Arthur",
+  "description": "Traditional pub with polished wood, leather banquettes, real ales and taxidermy heads.",
+  "image": "http://hero",
+  "website": "http://www.pricn.co.uk",
+  "address": "127 Shoreditch High Street, London E1 6JE",
+  "keg": "yes",
+  "lat": 51.526298,
+  "lng": -0.078425
+}, 
+{
+  "name": "Strongroom Bar",
+  "description": "Modern takes on a pub menu served in a split-level venue with outdoor seating,  live bands and DJs",
+  "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
+  "website": "http://www.strongroombar.com",
+  "address": "120-124 Curtain Rd, London EC2A 3SQ",
+  "keg": "no",
+  "lat": 51.525964,
+  "lng": -0.080139
+},
+{
+  "name": "Shoreditch House",
+  "description": "Members club with monthly table football tournaments and weekly 'winner stays on' nights",
+  "image": "https://www.ltfc.info/images/LTFC%20venue%20image_resized.jpg",
+  "website": "http://www.ltfc.info/AGSC.html",
+  "numberOfTables": "8",
+  "address": "26 Marcon Place, London E8 1LP",
+  "keg": "yes",
+  "lat": 51.548223,
+  "lng": -0.060249
+}
+]

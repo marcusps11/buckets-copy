@@ -1,6 +1,6 @@
 var express         = require('express');
-var path = require("path");
-var port = process.env.PORT || 3000; 
+var path            = require("path");
+var port            = process.env.PORT || 3000; 
 var cors            = require('cors');
 var path            = require('path');
 var morgan          = require('morgan');
@@ -8,10 +8,18 @@ var bodyParser      = require('body-parser');
 var mongoose        = require('mongoose');
 var methodOverride  = require("method-override");
 var app             = express();
-var twitter = require('./controllers/twitterController');
-var instagram = require('./controllers/instagramController');
-var mailgun = require('./controllers/mailgunController');
 
+var twitter         = require('./controllers/twitterController');
+var instagram       = require('./controllers/instagramController');
+var mailgun         = require('./controllers/mailgunController');
+var Club            = require('./models/club');
+
+var databaseURL = process.env.MONGOLAB_URI || 'mongodb://localhost/frb-refactors';
+mongoose.connect(databaseURL, function(err){
+  if(err){
+    console.log(err);
+  }
+}); 
 
 
 app.use(express.static(__dirname + '/public'));

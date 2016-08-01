@@ -17,7 +17,24 @@ body {
   font-family: sanchezRegular;
 }
 
+main {
+  // display: none;
+}
 
+#map{
+  height:768px;
+  width: 100%;
+}
+
+.sidebar {
+
+    z-index: 1;
+    position: absolute;
+    background: rgb(8, 105, 64);
+    opacity: 0.8;
+    width: 385px;
+    height: 768px;
+}
 
 a{
   font-family: linetoCircularBold;
