@@ -122,26 +122,35 @@ Frb.barMap.markBar = function(bar) {
     position: {lat: bar.lat, lng: bar.lng},
     map: window.map,
     title: bar.name
-   
+
   });
   console.log(marker)
   marker.addListener('click', function() {
-      Frb.barMap.markerClick(bar, marker);
-    });
+    Frb.barMap.markerClick(bar, marker);
+  });
 };
 
 Frb.barMap.markerClick = function(bar, marker) {
-  if (infowindow) infowindow.close();
   var infowindow = new google.maps.InfoWindow({
     content:'<div class="infowindow"><h3>'+ bar.name +'</h3><h4>'+ bar.address +'</h4></div>'
+  });
+  if (infowindow) 
+    infowindow.close();
+  
+    infowindow.open(window.map, marker);
+    $('.sidebar').scrollTo($('.scroll_'+bar._id), 1000);
 
-    });
 
-  infowindow.open(window.map, marker);
 
 };
 
 Frb.barMap.showClub = function(club){
-  $('.all-clubs').append("<div class='tile scroll_"+club._id+"'><a href='"+club.website+"' target='_blank'><h4>"+club.name+"</h4></a><h5>"+club.address+"</h5><div class='toolbar'><a href='"+club.website+"' target='_blank'><div class='toolbar-icon booking_"+club.keg+"'>Keg</div></a><div class='club-image' style='background-image: url("+club.image+")'></div><p>"+club.description+"</p></div><hr>");
+  $('.all-clubs').append("<div class='tile scroll_"+club._id+"'><a href='"
+    +club.website+"' target='_blank'><h4>"
+    +club.name+"</h4></a><h5>"+club.address
+    +"</h5><div class='toolbar'><a href='"
+    +club.website+"' target='_blank'><div class='toolbar-icon booking_"
+    +club.keg+"'>Keg</div></a><div class='club-image' style='background-image: url("
+    +club.image+")'></div><p>"+club.description+"</p></div><hr>");
   $('.delete').addClass("logged-in");
 }

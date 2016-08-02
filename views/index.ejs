@@ -14,6 +14,8 @@
   <script type="text/javascript" src="js/contactform.js"></script>
   <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;libraries=places"></script>
   <script type="text/javascript" src="./js/sidebar.js"></script>
+  <script type="text/javascript" src="./js/vendor/jquery.scrollTo.min.js"></script>
+
 
 
   <!-- CSS -->
@@ -212,12 +214,15 @@
 
         </section>
         <div class='map-content'>
-          <div class="sidebar"> <div id="map" class="tab"></div>
-          <div class="all-clubs">
-            
-          </div>
+       
+          <div class="sidebar not-hidden"> 
+          <ul>
+            <li><img id="back-arrow" class='back-arrow' src="images/back.png"></li>
+          </ul>
+          <div class="all-clubs"></div>
 
         </div>
+        <div id="map" class="tab"></div>
       </div>
 
     </main>

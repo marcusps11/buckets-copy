@@ -2,20 +2,21 @@ $(initialize);
 
 function initialize(){
   toggleSideBar();
-  $('img.menu').on("click", toggleSidebarImage)
+  // $('#back-arrow').on("click", toggleSidebarImage)
 }
 
 function toggleSideBar(){
-  $(".menu").on("click", function() {
+  $("#back-arrow").on("click", function() {
     event.preventDefault();
-    $('main').toggleClass("hidden");
+    $('.sidebar').toggleClass("menu-hidden");
   });
 }
 
-function toggleSidebarImage(){
-  if ($('main').hasClass('hidden')){
-    $('img.menu').addClass('menu-hidden')
-  } else {
-    $('img.menu').removeClass('menu-hidden')
-  }
-}
+// function toggleSidebarImage(){
+
+//   if ($('.sidebar').hasClass('not-hidden')){
+//     $('.sidebar').addClass('menu-hidden')
+//   } else {
+//     $('.sidebar').removeClass('menu-hidden')
+//   }
+// }
