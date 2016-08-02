@@ -134,7 +134,7 @@ Frb.barMap.markerClick = function(bar, marker) {
   var infowindow = new google.maps.InfoWindow({
     content:'<div class="infowindow"><h3>'+ bar.name +'</h3><h4>'+ bar.address +'</h4></div>'
   });
-  if (infowindow) 
+  if (infowindow)
     infowindow.close();
   
     infowindow.open(window.map, marker);

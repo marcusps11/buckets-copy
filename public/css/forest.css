@@ -36,12 +36,25 @@ main {
     height: 768px;
 }
 
+h5 {
+  color:#fff;
+}
+
+.sidebar h1 a {
+  font-size: 22px;
+}
+
 .sidebar {
   overflow:auto;
 }
 
-.hidden {
+.toolbar {
+  color:#fff;
+  font-family: sanchezRegular;
+}
 
+.toolbar p {
+  font-size: 18px;
 }
 
 .menu-hidden {
