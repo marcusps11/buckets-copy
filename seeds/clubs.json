@@ -1,37 +1,126 @@
 [{
   "name": "Prince Arthur",
   "description": "Traditional pub with polished wood, leather banquettes, real ales and taxidermy heads.",
-  "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
+  "image": "http://static.designmynight.com/uploads/2014/01/princearthurreview1.jpg",
   "website": "http://www.pricn.co.uk",
-  "address": "127 Shoreditch High Street, London E1 6JE",
+  "address": "95 Forest Rd, London Fields, London E8 3BH",
   "keg": "yes",
-  "lat": 51.526298,
-  "lng": -0.078425
+  "lat": 51.536086,
+  "lng": 0.225906
 }, 
 {
-  "name": "Strongroom Bar",
-  "description": "Modern takes on a pub menu served in a split-level venue with outdoor seating,  live bands and DJs",
-  "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
-  "website": "http://www.strongroombar.com",
-  "address": "120-124 Curtain Rd, London EC2A 3SQ",
-  "keg": "no",
-  "lat": 51.525964,
-  "lng": -0.080139
+  "name": "Stokey Bears",
+  "description": "Rustic hangout turning out burgers with creative toppings, plus craft beers and cocktails.",
+  "image": "http://www.stereostokey.com/wp-content/uploads/2014/10/Burger-and-Jam-676x450.jpg",
+  "website": "http://www.stokeybears.com",
+  "address": "129 Stoke Newington High St, London N16 0PH",
+  "keg": "yes",
+  "lat": 51.772089,
+  "lng": 0.261612
 },
 {
-  "name": "Shoreditch House",
-  "description": "Members club with monthly table football tournaments and weekly 'winner stays on' nights",
+  "name": "The Bonneville tavern",
+  "description": "Low-lit brasserie with stripped walls and banquettes, for French-inspired menu and cocktails.",
+  "image": "http://foodverdicts.co.uk/wp-content/uploads/2014/09/The-Bonneville_London-Restaurant.jpg",
+  "website": "thebonneville.co.uk",
+  "address": "43 Lower Clapton Rd, London E5 0NS",
+  "keg": "yes",
+  "lat": 51.762740,
+  "lng": 0.213547
+},
+{
+  "name": "The Old Fountain",
+  "description": "Freehouse with a rotating selection of cask ales, a classic pub food menu and its own roof terrace.",
+  "image": "http://www.perfectpint.co.uk/files/pubs/original/Old_Fountain.png",
+  "website": "www.oldfountain.co.uk",
+  "address": "3 Baldwin St, London EC1V 9NU",
+  "keg": "no",
+  "lat": 51.741487,
+  "lng": 0.113297
+},
+{
+  "name": "The Beer Shop London",
+  "description": "The Beer Shop London is a small, friendly micro pub in Nunhead, South East London.",
+  "image": "http://www.thedrinksbusiness.com/wordpress/wp-content/uploads/2014/04/Brewdog_bottleshop-27-4-640x426.jpg",
+  "website": "www.thebeershoplondon.co.uk/",
+  "address": "40 Nunhead Green, London SE15 3QF",
+  "keg": "yes",
+  "lat": 51.720223,
+  "lng": -0.338516
+},
+{
+  "name": "Two Floors",
+  "description": "Casual bar with stools at a long wooden counter, above colourful tiki-style basement cocktail den.",
+  "image": "https://i.ebayimg.com/00/s/MzYwWDY0MA==/z/HQ8AAOSwmtJXUAGv/$_86.JPG",
+  "website": "www.twofloors.com",
+  "address": "3 Kingly St, Soho, London W1B 5PD",
+  "keg": "yes",
+  "lat": 51.766990,
+  "lng":  0.073471
+}, 
+{
+  "name": "Electricity Showrooms",
+  "description": "Laid-back update on a Victorian pub (with cocktail menu), plus DJs and dance floor in the basement.",
+  "image": "https://media-cdn.tripadvisor.com/media/photo-s/02/1f/8d/58/electricity-showroom.jpg",
+  "website": "www.electricityshowrooms.com/",
+  "address": "39A Hoxton Square, London N1 6NN",
+  "keg": "no",
+  "lat": 51.782285,
+  "lng": 0.150375
+},
+{
+  "name": "The Bull Highgate",
+  "description": "Smart, trendy pub with bay windows, British menu and a selection of beers brewed on the premises.",
+  "image": "http://my.propcom.co.uk/data/legacy/galleries/4035_112343_large.jpg",
+  "website": "thebullhighgate.co.uk",
+  "address": "13 North Hill, London N6 4AB",
+  "keg": "yes",
+  "lat": 51.824745,
+  "lng": -0.418167
+},
+{
+  "name": "The Cavendish",
+  "description": "Light-filled, corner restaurant serving European cuisine and cocktails in a dining room with booths.",
+  "image": "http://www.bonvivant.co.uk/app/uploads/sites/2/2014/11/The-Cavendish-Bar.jpg",
+  "website": "35newcavendish.co.uk",
+  "address": "35 New Cavendish St, London W1G 9TR",
+  "keg": "yes",
+  "lat": 51.769540,
+  "lng": 0.056992
+},
+{
+  "name": "Drafthouse Old Street",
+  "description": "The Draft House is a small group of Public Houses which aims to do for beer what our culture has done for food and wine over the past twenty years.",
+  "image": "https://static.designmynight.com/uploads/2016/05/DH-new-1-optimised.jpg",
+  "website": "www.drafthouse.co.uk/",
+  "address": "Mews Unit, The Bower,, 211 Old St, London EC1V 9NR",
+  "keg": "yes",
+  "lat": 51.769540,
+  "lng": 0.056992
+}, 
+{
+  "name": "Hash E8",
+  "description": "hash is a restaurant and brunch bar specialising in british and american breakfast and lunch classics ",
+  "image": "http://static1.squarespace.com/static/53344a0ce4b05338ea42ec7d/54c0f5e8e4b0a540ca79c5a1/54c0f615e4b00608c426068c/1421933030593/IMG_2816.JPG",
+  "website": "www.hashe8.com",
+  "address": "170A Dalston Ln, London E8 1NG",
+  "keg": "no",
+  "lat": 51.787382,
+  "lng": 0.098190
+},
+{
+  "name": "The Market Cafe",
+  "description": "Laid-back old-pub setting with stripped floors and mismatched furniture for Italian comfort food.",
   "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
   "website": "http://www.ltfc.info/AGSC.html",
-  "numberOfTables": "8",
-  "address": "26 Marcon Place, London E8 1LP",
+  "address": "2 Broadway Market, London E8 4QJ",
   "keg": "yes",
-  "lat": 51.548223,
-  "lng": -0.060249
+  "lat": 51.539622,
+  "lng": -0.060006
 },
 {
-  "name": "Strongroom Bar",
-  "description": "Modern takes on a pub menu served in a split-level venue with outdoor seating,  live bands and DJs",
+  "name": "Dr Inks Waterloo",
+  "description": "Relaxed, spacious bar serving British food, wraps and burgers, plus a cocktail menu.",
   "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
   "website": "http://www.strongroombar.com",
   "address": "120-124 Curtain Rd, London EC2A 3SQ",
@@ -40,14 +129,124 @@
   "lng": -0.080139
 },
 {
-  "name": "Shoreditch House",
-  "description": "Members club with monthly table football tournaments and weekly 'winner stays on' nights",
+  "name": "The London Beer House",
+  "description": "THE LONDON BEER HOUSE IS A CRAFT BEER SHOP AND PUB, LOCATED A ‘HOPS’ THROW FROM PICCADILLY IN ST JAMES",
   "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
   "website": "http://www.ltfc.info/AGSC.html",
-  "numberOfTables": "8",
   "address": "26 Marcon Place, London E8 1LP",
   "keg": "yes",
   "lat": 52.548223,
   "lng": -0.060249
+},
+{
+  "name": "The manor House pub",
+  "description": "The Manor House has an excellent reputation for classic British dishes. Good Pub food the way it should be!",
+  "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
+  "website": "http://www.pricn.co.uk",
+  "address": "127 Shoreditch High Street, London E1 6JE",
+  "keg": "yes",
+  "lat": 51.526298,
+  "lng": -0.078425
+}, 
+{
+  "name": "The Rose and Crown",
+  "description": "Large pub with a multitude of small window panes inside and out and a popular, decked roof terrace.",
+  "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
+  "website": "http://www.strongroombar.com",
+  "address": "120-124 Curtain Rd, London EC2A 3SQ",
+  "keg": "no",
+  "lat": 51.525964,
+  "lng": -0.080139
+},
+{
+  "name": "The White Horse",
+  "description": "Victorian gastropub with garden, mahogany interior and flagstones, plus numerous worldwide beers.",
+  "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
+  "website": "http://www.ltfc.info/AGSC.html",
+  "address": "26 Marcon Place, London E8 1LP",
+  "keg": "yes",
+  "lat": 51.548223,
+  "lng": -0.060249
+},
+{
+  "name": "The Exmouth Arms",
+  "description": "Victorian pub with a green-tiled facade, stained-glass windows and a large menu of bottled beers.",
+  "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
+  "website": "http://www.strongroombar.com",
+  "address": "120-124 Curtain Rd, London EC2A 3SQ",
+  "keg": "no",
+  "lat": 50.425964,
+  "lng": -0.080139
+},
+{
+  "name": "The Mall Tavern",
+  "description": "A wonderful London Pub, serving great British food all day, everyday. ",
+  "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
+  "website": "http://www.ltfc.info/AGSC.html",
+  "address": "26 Marcon Place, London E8 1LP",
+  "keg": "yes",
+  "lat": 51.548223,
+  "lng": -0.060249
+},
+{
+  "name": "The Crown and Anchor",
+  "description": "Welcome to the Crown & Anchor. Your local, and sister pub of the Jolly Butchers in Stoke Newington, winner of Time Out's best new beer bar in 2012",
+  "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
+  "website": "http://www.strongroombar.com",
+  "address": "120-124 Curtain Rd, London EC2A 3SQ",
+  "keg": "no",
+  "lat": 50.425964,
+  "lng": -0.080139
+},
+{
+  "name": "Watsons General",
+  "description": "Spacious beer-centric pub with an ever-changing selection and fire pits in the large rear garden.",
+  "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
+  "website": "http://www.ltfc.info/AGSC.html",
+  "address": "26 Marcon Place, London E8 1LP",
+  "keg": "yes",
+  "lat": 52.548223,
+  "lng": -0.060249
+},
+{
+  "name": "Proud Camden",
+  "description": "Relaxed daytime bar in former horse hospital transforms into a burlesque venue and club after dark.",
+  "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
+  "website": "http://www.pricn.co.uk",
+  "address": "127 Shoreditch High Street, London E1 6JE",
+  "keg": "yes",
+  "lat": 51.526298,
+  "lng": -0.078425
+}, 
+{
+  "name": "Shoreditch House",
+  "description": "Shoreditch House is a members' club with bedrooms in a converted East London warehouse.",
+  "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
+  "website": "http://www.strongroombar.com",
+  "address": "120-124 Curtain Rd, London EC2A 3SQ",
+  "keg": "no",
+  "lat": 51.525964,
+  "lng": -0.080139
+},
+{
+  "name": "Costcutter London Fields",
+  "description": "London fields newsagent - the first bottle account for FRB and our local shop",
+  "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
+  "website": "http://www.ltfc.info/AGSC.html",
+  "address": "26 Marcon Place, London E8 1LP",
+  "keg": "yes",
+  "lat": 51.548223,
+  "lng": -0.060249
+},
+{
+  "name": "Junction Offlicense",
+  "description": "Off licencse next to Dalston Junction",
+  "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
+  "website": "http://www.strongroombar.com",
+  "address": "120-124 Curtain Rd, London EC2A 3SQ",
+  "keg": "no",
+  "lat": 50.425964,
+  "lng": -0.080139
 }
+
 ]
