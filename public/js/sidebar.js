@@ -6,9 +6,10 @@ function initialize(){
 }
 
 function toggleSideBar(){
-  $("#back-arrow").on("click", function() {
+  $(".sidebar").on("click", function() {
     event.preventDefault();
     $('.sidebar').toggleClass("menu-hidden");
+    $('.all-clubs').toggleClass("hide-content");
   });
 }
 

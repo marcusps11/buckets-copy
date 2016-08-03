@@ -3,6 +3,7 @@ $(document).ready(function() {
   Frb.twitter.getTweets();
   Frb.instagram.getPhotos();
   Frb.barMap.initialize();
+  Frb.bindEvents();
 });
 
 
@@ -58,7 +59,7 @@ Frb.twitter.getTweets = function() {
     method: "get",
     url: 'https://frozen-stream-20171.herokuapp.com/api/twitter'
   }).done(function(data){
-    console.log(data);
+    // console.log(data);
     Frb.twitter.showData(data);
   });
 };
@@ -75,7 +76,7 @@ Frb.instagram.getPhotos = function() {
     method: "get",
     url: 'https://frozen-stream-20171.herokuapp.com/api/instagram/get'
   }).done(function(data){
-    console.log(data);
+    // console.log(data);
     Frb.instagram.showData(data);
   });
 };
@@ -124,7 +125,6 @@ Frb.barMap.markBar = function(bar) {
     title: bar.name
 
   });
-  console.log(marker)
   marker.addListener('click', function() {
     Frb.barMap.markerClick(bar, marker);
   });
@@ -149,8 +149,29 @@ Frb.barMap.showClub = function(club){
     +club.website+"' target='_blank'><h4>"
     +club.name+"</h4></a><h5>"+club.address
     +"</h5><div class='toolbar'><a href='"
-    +club.website+"' target='_blank'><div class='toolbar-icon booking_"
-    +club.keg+"'>Keg</div></a><div class='club-image' style='background-image: url("
+    +club.website+"' target='_blank'>"+club.website+"</a><div class='club-image' style='background-image: url("
     +club.image+")'></div><p>"+club.description+"</p></div><hr>");
   $('.delete').addClass("logged-in");
 }
+
+Frb.bindEvents = function() {
+  $(".navbar-nav>li>a").on("click", Frb.ui.toggleTab);
+};
+
+Frb.ui = {};
+
+Frb.ui.toggleTab = function() {
+  console.log('hello')
+  var tab = $(this).attr("title");
+  console.log(tab)
+  Frb.ui.toggleDisplays(tab);
+};
+
+Frb.ui.toggleDisplays = function(id){
+
+  $('.tab').slideUp(1000);
+  $("#" + id).toggle(1000);
+  
+};
+
+
