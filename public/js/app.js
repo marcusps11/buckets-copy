@@ -76,7 +76,6 @@ Frb.instagram.getPhotos = function() {
     method: "get",
     url: 'https://frozen-stream-20171.herokuapp.com/api/instagram/get'
   }).done(function(data){
-    // console.log(data);
     Frb.instagram.showData(data);
   });
 };
