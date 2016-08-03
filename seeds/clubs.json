@@ -5,8 +5,8 @@
   "website": "http://www.pricn.co.uk",
   "address": "95 Forest Rd, London Fields, London E8 3BH",
   "keg": "yes",
-  "lat": 51.536086,
-  "lng": 0.225906
+  "lat": 51.539983,
+  "lng": -0.059369
 }, 
 {
   "name": "Stokey Bears",
@@ -15,8 +15,8 @@
   "website": "http://www.stokeybears.com",
   "address": "129 Stoke Newington High St, London N16 0PH",
   "keg": "yes",
-  "lat": 51.772089,
-  "lng": 0.261612
+  "lat": 51.560569,
+  "lng": -0.074115
 },
 {
   "name": "The Bonneville tavern",
@@ -25,8 +25,8 @@
   "website": "thebonneville.co.uk",
   "address": "43 Lower Clapton Rd, London E5 0NS",
   "keg": "yes",
-  "lat": 51.762740,
-  "lng": 0.213547
+  "lat": 51.550944,
+  "lng": -0.052322
 },
 {
   "name": "The Old Fountain",
@@ -45,8 +45,8 @@
   "website": "www.thebeershoplondon.co.uk/",
   "address": "40 Nunhead Green, London SE15 3QF",
   "keg": "yes",
-  "lat": 51.720223,
-  "lng": -0.338516
+  "lat": 51.465901,
+  "lng": -0.058030
 },
 {
   "name": "Two Floors",
@@ -55,8 +55,8 @@
   "website": "www.twofloors.com",
   "address": "3 Kingly St, Soho, London W1B 5PD",
   "keg": "yes",
-  "lat": 51.766990,
-  "lng":  0.073471
+  "lat": 51.512206,
+  "lng":  -0.138651
 }, 
 {
   "name": "Electricity Showrooms",
@@ -65,8 +65,8 @@
   "website": "www.electricityshowrooms.com/",
   "address": "39A Hoxton Square, London N1 6NN",
   "keg": "no",
-  "lat": 51.782285,
-  "lng": 0.150375
+  "lat": 51.527468,
+  "lng": -0.080316
 },
 {
   "name": "The Bull Highgate",
@@ -75,8 +75,8 @@
   "website": "thebullhighgate.co.uk",
   "address": "13 North Hill, London N6 4AB",
   "keg": "yes",
-  "lat": 51.824745,
-  "lng": -0.418167
+  "lat": 51.575437,
+  "lng": -0.150904
 },
 {
   "name": "The Cavendish",
@@ -85,8 +85,8 @@
   "website": "35newcavendish.co.uk",
   "address": "35 New Cavendish St, London W1G 9TR",
   "keg": "yes",
-  "lat": 51.769540,
-  "lng": 0.056992
+  "lat": 51.518901,
+  "lng": -0.149830
 },
 {
   "name": "Drafthouse Old Street",
@@ -95,8 +95,8 @@
   "website": "www.drafthouse.co.uk/",
   "address": "Mews Unit, The Bower,, 211 Old St, London EC1V 9NR",
   "keg": "yes",
-  "lat": 51.769540,
-  "lng": 0.056992
+  "lat": 51.525902,
+  "lng": -0.089130
 }, 
 {
   "name": "Hash E8",
@@ -105,8 +105,8 @@
   "website": "www.hashe8.com",
   "address": "170A Dalston Ln, London E8 1NG",
   "keg": "no",
-  "lat": 51.787382,
-  "lng": 0.098190
+  "lat": 51.548130,
+  "lng": -0.067581
 },
 {
   "name": "The Market Cafe",
@@ -115,128 +115,128 @@
   "website": "http://www.ltfc.info/AGSC.html",
   "address": "2 Broadway Market, London E8 4QJ",
   "keg": "yes",
-  "lat": 51.539622,
-  "lng": -0.060006
+  "lat": 51.535691,
+  "lng": -0.061985
 },
 {
   "name": "Dr Inks Waterloo",
   "description": "Relaxed, spacious bar serving British food, wraps and burgers, plus a cocktail menu.",
-  "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
-  "website": "http://www.strongroombar.com",
-  "address": "120-124 Curtain Rd, London EC2A 3SQ",
+  "image": "https://static1.squarespace.com/static/54b52effe4b0c041d8689db5/t/54b67adde4b069dab24eefa6/1421245149329/DrInks_AMS001.jpeg",
+  "website": "www.dr-inkslondon.com/",
+  "address": "52-54 Stamford St, Southwark, London SE1 9LY",
   "keg": "no",
-  "lat": 50.425964,
-  "lng": -0.080139
+  "lat": 51.507137,
+  "lng": -0.107579
 },
 {
   "name": "The London Beer House",
   "description": "THE LONDON BEER HOUSE IS A CRAFT BEER SHOP AND PUB, LOCATED A ‘HOPS’ THROW FROM PICCADILLY IN ST JAMES",
-  "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
-  "website": "http://www.ltfc.info/AGSC.html",
-  "address": "26 Marcon Place, London E8 1LP",
+  "image": "http://www.thedrinksbusiness.com/wordpress/wp-content/uploads/2015/07/CJ-mHEpWsAExZME.jpg",
+  "website": "www.londonbeerhouse.com/",
+  "address": "24 Charles II St, London SW1Y",
   "keg": "yes",
-  "lat": 52.548223,
-  "lng": -0.060249
+  "lat": 51.508346,
+  "lng": -0.132103
 },
 {
-  "name": "The manor House pub",
+  "name": "The Manor House Pub",
   "description": "The Manor House has an excellent reputation for classic British dishes. Good Pub food the way it should be!",
-  "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
-  "website": "http://www.pricn.co.uk",
-  "address": "127 Shoreditch High Street, London E1 6JE",
+  "image": "http://www.wansteadsearch.co.uk/resources/Manor%20House.JPG.opt470x352o0,0s470x352.JPG",
+  "website": "https://www.tripadvisor.co.uk/Restaurant_Review-g186338-d7284094-Reviews-The_Manor_House_Wanstead-London_England.html",
+  "address": "The Manor House, High Street Wanstead, London E11 2RL",
   "keg": "yes",
-  "lat": 51.526298,
-  "lng": -0.078425
+  "lat": 51.578957,
+  "lng": 0.025680
 }, 
 {
   "name": "The Rose and Crown",
-  "description": "Large pub with a multitude of small window panes inside and out and a popular, decked roof terrace.",
-  "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
-  "website": "http://www.strongroombar.com",
-  "address": "120-124 Curtain Rd, London EC2A 3SQ",
+  "description": "Lively locals' pub with a community ethos, live music & comedy, plus a short, innovative bar menu.",
+  "image": "http://static1.squarespace.com/static/53be7571e4b06a87624679d6/53c81d0ae4b03fc272ee1246/5475e0c6e4b0183e4a8dc753/1434191992062/Rose+%26+Crown+28.jpg?format=1500w",
+  "website": "www.roseandcrownkentishtown.com/",
+  "address": "71-73 Torriano Ave, London NW5 2SG",
   "keg": "no",
-  "lat": 51.525964,
-  "lng": -0.080139
+  "lat": 51.550315,
+  "lng": -0.132932
 },
 {
   "name": "The White Horse",
   "description": "Victorian gastropub with garden, mahogany interior and flagstones, plus numerous worldwide beers.",
-  "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
-  "website": "http://www.ltfc.info/AGSC.html",
-  "address": "26 Marcon Place, London E8 1LP",
+  "image": "https://www.whitehorsesw6.com/content/dam/castle/pub-images/whitehorsesw6/whitehorsesw6-pubhero_01.jpg.asset/1468421473792.jpg",
+  "website": "https://www.whitehorsesw6.com/",
+  "address": "1-3 Parsons Green, London SW6 4UL",
   "keg": "yes",
-  "lat": 51.548223,
-  "lng": -0.060249
+  "lat": 51.473730,
+  "lng": -0.199222
 },
 {
   "name": "The Exmouth Arms",
   "description": "Victorian pub with a green-tiled facade, stained-glass windows and a large menu of bottled beers.",
-  "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
-  "website": "http://www.strongroombar.com",
-  "address": "120-124 Curtain Rd, London EC2A 3SQ",
+  "image": "http://www.british-history.ac.uk/sites/default/files/publications/pubid-1287/images/fig69.jpg",
+  "website": "www.exmoutharms.com/",
+  "address": "23 Exmouth Market, London EC1R 4QL",
   "keg": "no",
-  "lat": 50.425964,
-  "lng": -0.080139
+  "lat": 51.525744,
+  "lng": -0.109485
 },
 {
   "name": "The Mall Tavern",
   "description": "A wonderful London Pub, serving great British food all day, everyday. ",
-  "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
-  "website": "http://www.ltfc.info/AGSC.html",
-  "address": "26 Marcon Place, London E8 1LP",
+  "image": "http://www.perfectpint.co.uk/files/pubs/original/malltavernnottinghill.png",
+  "website": "www.themallw8.com/",
+  "address": "Mall Tavern, 71 Palace Gardens Terrace, Kensington, London W8 4RU",
   "keg": "yes",
-  "lat": 51.548223,
-  "lng": -0.060249
+  "lat": 51.508668,
+  "lng": -0.193862
 },
 {
   "name": "The Crown and Anchor",
-  "description": "Welcome to the Crown & Anchor. Your local, and sister pub of the Jolly Butchers in Stoke Newington, winner of Time Out's best new beer bar in 2012",
-  "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
-  "website": "http://www.strongroombar.com",
-  "address": "120-124 Curtain Rd, London EC2A 3SQ",
+  "description": "Brick-walled pub with infuser beer tap to increase the hops in their selection of interesting beers.",
+  "image": "http://www.brixtonbuzz.com/wp-content/uploads/2012/04/crownandanchorbrixton.jpg",
+  "website": "www.crownandanchorbrixton.co.uk/",
+  "address": " 246 Brixton Rd, London SW9 6AQ",
   "keg": "no",
-  "lat": 50.425964,
-  "lng": -0.080139
+  "lat": 51.471332,
+  "lng": -0.112949
 },
 {
   "name": "Watsons General",
   "description": "Spacious beer-centric pub with an ever-changing selection and fire pits in the large rear garden.",
-  "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
-  "website": "http://www.ltfc.info/AGSC.html",
-  "address": "26 Marcon Place, London E8 1LP",
+  "image": "http://laines.london/wordpress/wp-content/uploads/2016/01/Screen-Shot-2016-01-29-at-12.32.501-599x398.png",
+  "website": "watsonstelegraph.pub/",
+  "address": " Forest Hill Tavern, 108 Forest Hill Rd, London SE22 0RS",
   "keg": "yes",
-  "lat": 52.548223,
-  "lng": -0.060249
+  "lat": 51.451831,
+  "lng": -0.059832
 },
 {
   "name": "Proud Camden",
   "description": "Relaxed daytime bar in former horse hospital transforms into a burlesque venue and club after dark.",
-  "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
-  "website": "http://www.pricn.co.uk",
-  "address": "127 Shoreditch High Street, London E1 6JE",
+  "image": "http://musicforlondon.co.uk/wp-content/uploads/2013/02/proud-camden.jpg",
+  "website": "proudcamden.com/",
+  "address": "Stable Market, The Horse Hospital, The Stables Market, Chalk Farm Rd, London NW1 8AH",
   "keg": "yes",
-  "lat": 51.526298,
-  "lng": -0.078425
+  "lat": 51.542865,
+  "lng": -0.148767
 }, 
 {
   "name": "Shoreditch House",
   "description": "Shoreditch House is a members' club with bedrooms in a converted East London warehouse.",
-  "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
-  "website": "http://www.strongroombar.com",
-  "address": "120-124 Curtain Rd, London EC2A 3SQ",
+  "image": "https://www.sohohouse.com/system/files/052015/555c6815f7c88bfeaa00015d/xlarge/SoHoChi_075_copy123.jpg?1453979990",
+  "website": "https://www.shoreditchhouse.com/",
+  "address": "Shoreditch House,1 Ebor St,London,E1 6AW",
   "keg": "no",
-  "lat": 51.525964,
-  "lng": -0.080139
+  "lat": 51.523781,
+  "lng": -0.075943
 },
 {
   "name": "Costcutter London Fields",
   "description": "London fields newsagent - the first bottle account for FRB and our local shop",
-  "image": "https://media.timeout.com/images/101810145/617/347/image.jpg",
+  "image": "http://www.allinlondon.co.uk/images/venues/images_all/10485065.jpg",
   "website": "http://www.ltfc.info/AGSC.html",
-  "address": "26 Marcon Place, London E8 1LP",
+  "address": " 62/64 Greenwood Rd, London E8 1AB",
   "keg": "yes",
-  "lat": 51.548223,
-  "lng": -0.060249
+  "lat": 51.545259,
+  "lng": -0.063266
 },
 {
   "name": "Junction Offlicense",
